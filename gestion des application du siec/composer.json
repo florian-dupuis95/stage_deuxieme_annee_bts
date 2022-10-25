@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.21",
+        "behat/behat": "^3.10",
+        "behat/mink": "^1.9"
+    }
+}

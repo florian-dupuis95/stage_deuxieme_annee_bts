@@ -1,0 +1,110 @@
+header .logo-rf, header .logo-siec{
+    height: 113px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+}
+body{
+    margin-right: 15px;
+    margin-left:15px ;
+    font: 1em arial;
+}
+.nom_application{
+    margin-top:30px ;
+    color: #992a2a;
+    margin-right:0px;
+    text-align: right;
+    margin-bottom: 30px;
+    float: right;
+}
+
+h1{
+    margin: 0%;
+    padding: 0%;
+}
+h4{
+    margin: 0%;
+    padding: 0%;
+}
+h2{
+    margin: 0%;
+    padding: 0%;
+}
+
+.breadcrumb{
+    height: 40px;
+    background-color: #bd7878;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.breadcrumb-item.active {
+    color:#fff;
+}
+.breadcrumb-item a{
+    color: #fff;
+    text-decoration: none;
+}
+.breadcrumb-item a:hover{
+    color: #fff;
+    text-decoration: underline #fff;
+}
+.connexion{
+    margin-left: 45%;
+}
+/*.form-control{
+    width: 250px;
+}*/
+
+header #header{
+    display: inline-block;
+}
+.navbar{
+    background-color:#992a2a ;
+    height: 40px;
+    color:#fff;
+    margin-bottom: 10px;
+
+}
+.navbar-red .navbar-nav .nav-link{
+    color:#fff;
+    background-color: #992a2a;
+}
+
+.navbar-red .navbar-nav .nav-link:hover{
+    background-color: #fff;
+    color: #992a2a;
+    
+}
+.navbar-red .navbar-nav.right{
+    margin-right: 0%;
+}
+
+.link{
+    color: #fff;
+    text-decoration: none;
+}
+.link:hover{
+    color: #fff;
+    text-decoration: none;
+}
+/*.form-select{
+    width: 250px;
+}*/
+footer .label-dsi1{
+    position:absolute;
+    right: 5px;
+    bottom: 5px;
+    width: 80px;
+    opacity: .7;
+    transition: whidth 1s, opacity 1s;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+td{
+    white-space: nowrap;
+}
+.dropdown{
+    float: right;
+}
